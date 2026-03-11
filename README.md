@@ -4,7 +4,7 @@ Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
 *(Setelah kamu screenshot aplikasimu, upload gambarnya ke folder di GitHub, lalu ganti link di bawah ini)*
-![Preview Aplikasi](path/ke/screenshot/kamu.png)
+![Preview Aplikasi](https://github.com/shabrinaaaa73-dotcom/mission2/raw/main/m2shab.jpeg)
 
 ## 🛠️ Tech Stack
 - **Framework:** React Native (Expo SDK 50)
